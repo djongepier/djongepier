@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @djongepier
+- 👀 I’m interested in GNU/Linux and programming
+- 🌱 I’m currently learning Python
+- 📫 How to reach me on Gitlab: https://gitlab.com/djongepier
