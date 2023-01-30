@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @djongepier
-- 👀 I’m interested in programming, proxmox, Sci-Fi
+- 👀 I’m interested in programming, Sci-Fi
 - 🌱 I’m currently learning Python
