@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @djongepier
 - 👀 I’m interested in programming, Sci-Fi (movies and books)
 - 🌱 I’m currently learning Python
+- Dabbling in C/C++ with Raspberry Pi Pico and electronics
+- Using copilot to do some AI assisted coding
